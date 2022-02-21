@@ -1,1 +1,1 @@
-# hypercat
+Intentionally blank.

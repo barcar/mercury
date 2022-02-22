@@ -1,4 +1,4 @@
-remote-theme: pmarsceill/just-the-docs
-
-# Color scheme supports "light" (default) and "dark"
-color_scheme: dark
+title: "Mercuru"
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "dark"
+search_enabled: false

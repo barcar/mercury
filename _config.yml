@@ -113,7 +113,7 @@ compress_html:
 
 exclude:
   [
-    "README.md",
+ #   "README.md",
     "Gemfile",
     "Gemfile.lock",
     "FAQ.md",

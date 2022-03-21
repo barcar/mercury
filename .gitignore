@@ -1,3 +1,4 @@
 .DS_Store
-signature.htm
-signature_full_internal.htm
+signature*.htm
+*.bak
+.icloud*
